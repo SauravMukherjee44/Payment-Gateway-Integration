@@ -16,7 +16,7 @@ Payment Gateway Integration for Donating specific amount of Money directly to th
 #Backend :
 
 1. Razorpay 
-## 📌 Sneak Peek of Main Page 🙈 :
+## 📌 Sneak Peek  :
 ![HOME](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/5ed72517f2977e858e943c469fe49efd4664e3a1/img/Screenshot%20(248).png)
 ![DONATION](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/56c0eaeb008274ca5a7ebbf76066027a90c0944c/img/Screenshot%20(250).png)
 ![Payment Getway](https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/56c0eaeb008274ca5a7ebbf76066027a90c0944c/img/Screenshot%20(251).png)
