@@ -1,6 +1,6 @@
 # Payment Gateway Integration
 
-Payment Gateway Integration for Donating specific amount of Money directly to the Needed One.or payment gateway integration, Razorpay is used.
+Payment Gateway Integration for Donating specific amount of Money directly to the Needed one. Payment gateway integration, Razorpay is used.
 
 <a href="https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/" target="_blank">**Visit Now** 🚀</a>
 
