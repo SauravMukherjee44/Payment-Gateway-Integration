@@ -17,8 +17,7 @@ Payment Gateway Integration for Donating specific amount of Money directly to th
 
 1. Razorpay 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/94498338de779cd693065dfb01b8ca1daab1eeef/assests/images/Screenshot%20(214).png)
-![skillsmockup](https://github.com/SauravMukherjee44/Portfolio-Saurav-Mukherjee/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(215).png)
+https://github.com/SauravMukherjee44/Payment-Gateway-Integration/blob/5ed72517f2977e858e943c469fe49efd4664e3a1/img/Screenshot%20(248).png
 
 <h2>📬 Contact</h2>
 
